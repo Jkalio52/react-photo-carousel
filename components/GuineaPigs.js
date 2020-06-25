@@ -14,5 +14,3 @@ export class GuineaPigs extends React.Component {
       );
     }
 }
-
-
