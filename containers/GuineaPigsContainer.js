@@ -47,5 +47,3 @@ ReactDOM.render(
   <GuineaPigsContainer />,
   document.getElementById('app')
 );
-
-
