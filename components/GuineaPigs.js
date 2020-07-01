@@ -8,7 +8,7 @@ export class GuineaPigs extends React.Component {
     let src = this.props.src;
       return (
         <div>
-          <h1>Cute Guinea Pigs!</h1>
+          <h1>Very Cute Guinea Pigs!</h1>
           <img src={src} />
         </div>
       );
